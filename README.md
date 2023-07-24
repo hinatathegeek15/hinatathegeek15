@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **girijapolamreddy03@gmail.com**
+- 📫 How to reach me **girijapolamreddy1599@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Girija159/girija159.github.io/blob/main/assets/resume/girija_polamreddy.pdf](https://github.com/Girija159/girija159.github.io/blob/main/assets/resume/girija_polamreddy.pdf)
 
